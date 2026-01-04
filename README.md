@@ -25,6 +25,11 @@ The project is developed using **register-level programming**, focusing on core 
 
 ---
 
+## 🖼️ Hardware Setup
+![Hardware Setup](hardware_setup.jpg)
+
+---
+
 ## ❓ Why This Project?
 
 Temperature-based automation is widely used in:
