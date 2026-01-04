@@ -26,7 +26,7 @@ The project is developed using **register-level programming**, focusing on core 
 ---
 
 ## 🖼️ Hardware Setup
-![Hardware Setup](hardware.jpg)
+![Hardware Setup](hardware.jpeg)
 
 ---
 
